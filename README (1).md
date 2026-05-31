@@ -6,7 +6,8 @@
 
 ## 📸 成果預覽
 
-https://lurl.cc/sxGUo
+<img width="1910" height="962" alt="image" src="https://github.com/user-attachments/assets/299b4b21-f01b-4c98-88c2-afdf77062774" />
+
 
 ## 🛠️ 使用工具
 
@@ -44,36 +45,3 @@ https://lurl.cc/sxGUo
 └── README.md       # 本說明文件
 ```
 
----
-
-## 🚀 開啟方式
-
-1. 安裝 [Blender](https://www.blender.org/download/)（建議 3.0 以上版本）
-2. 下載或 Clone 此專案
-3. 開啟 `5枕頭.blend` 即可
-
-```bash
-git clone https://github.com/<你的帳號>/<你的repo名稱>.git
-```
-
----
-
-## 🌐 部署至 GitHub Pages
-
-若想展示渲染圖於網頁，可搭配 GitHub Pages：
-
-1. 進入 repo → **Settings → Pages**
-2. 來源設定為 `main` 分支、根目錄 `/`
-3. 公開網址：`https://<你的帳號>.github.io/<你的repo名稱>/`
-
----
-
-## 📝 學習心得
-
-> _可在此記錄製作過程中遇到的挑戰與收穫，讓 README 更有個人特色。_
->
-> 例如：「這次練習主要學習如何用 Subdivision Surface 讓硬邊模型呈現出柔軟的布料感，同時嘗試用 Principled BSDF 節點調出接近真實的棉布材質。」
-
----
-
-> 🌱 持續學習中 ── Blender 3D 建模練習系列
